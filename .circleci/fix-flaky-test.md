@@ -1,0 +1,1 @@
+- per every function or variable created, add an explanation why it's there
